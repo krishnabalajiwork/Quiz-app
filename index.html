@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Modern Quiz App</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="quiz-container">
+        <div class="quiz-header">
+            <div class="timer-box">
+                ⏳ <span id="timer">30</span>s
+            </div>
+            <div class="progress-bar">
+                <div class="progress-fill"></div>
+            </div>
+            <div class="score-box">
+                🏆 <span id="score">0</span>
+            </div>
+        </div>
+
+        <div class="question-box">
+            <div class="question-text" id="question-text">Loading questions...</div>
+            <div class="answers-grid" id="answers-grid"></div>
+        </div>
+    </div>
+
+    <div class="leaderboard">
+        <h2>Leaderboard</h2>
+        <ul id="leaderboard-list"></ul>
+    </div>
+
+    <div class="loading-overlay" id="loading-overlay">
+        <div class="loader"></div>
+        <p>Loading questions...</p>
+    </div>
+
+    <script src="quizLogic.js"></script>
+</body>
+</html>
