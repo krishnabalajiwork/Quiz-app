@@ -18,15 +18,4 @@ A modern, interactive, and gamified quiz application built with **HTML**, **CSS*
 ---
 
 ## Demo
-- **Drive**: https://drive.google.com/drive/folders/1WMMImEwMMK2ELbZ7anIs0WNVJQv2pEPd?usp=drive_link
-  - In this drive you can see photos and video for demo
-  
-## Setup Instructions
-
-### Prerequisites
-- A modern web browser (e.g., Chrome, Firefox, Safari).
-
-### Steps to Run the App
-1. **Clone the Repository**:
-   ```bash
-   git clone https://github.com/your-username/quiz-app.git
+- **Drive**: https://drive.google.com/drive/folders/1M5vzoqj9Ddk1l4KvyKpxt4X9Rfr-Iqnl
