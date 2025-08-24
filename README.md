@@ -1,7 +1,7 @@
 # Quiz App with Gamification
 
 A modern, interactive, and gamified quiz application built with **HTML**, **CSS**, and **JavaScript**. This app fetches quiz questions from an API, provides a timer and score system, and includes a leaderboard to track top scores.
-
+https://krishnabalajiwork.github.io/Quiz-app/
 ---
 
 ## Features
